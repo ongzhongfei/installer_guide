@@ -1,8 +1,9 @@
-# Welcome to Python/R installer guide
+
+# Welcome to Anaconda/R Installion guide
 
 [comment]:  (For full documentation visit [mkdocs.org](https://www.mkdocs.org).)
 
-Link to [Python](/Python/) installer guide.
+Link to [Anaconda - Python](/Python/) installer guide.
 
 Link to [R](/R/) installer guide.
 
@@ -12,10 +13,3 @@ Link to [R](/R/) installer guide.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

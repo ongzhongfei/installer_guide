@@ -1,4 +1,4 @@
-# Python Installer Guide
+# Anaconda Installion Guide
 
 [comment]:  (Testing out my first mkdocs)
 Dear Learners,

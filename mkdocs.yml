@@ -1,5 +1,6 @@
-site_name: First Installer guide
+site_name: Python and R Installation Guide
 repo_url: https://google.com/
 
-theme: readthedocs
+theme: 
+  name: readthedocs
 # docs_dir: Main page
