@@ -1,0 +1,5 @@
+site_name: First Installer guide
+repo_url: https://google.com/
+
+theme: readthedocs
+# docs_dir: Main page
