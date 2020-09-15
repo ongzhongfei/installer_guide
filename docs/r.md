@@ -3,3 +3,55 @@
 Dear Learners,
 
 Below you may find the steps to download and install Anaconda in your PC. 
+
+## Section 1: Download and Install R
+1. Follow [this link](https://www.r-project.org/). Click the "download R" link in the middle of the page under "Getting Started."
+
+    ![Screenshot](img/rweb1.jpg)
+
+<br>  
+2. Search for “0-Cloud-East Asia” and click the corresponding link
+
+![Screenshot](img/r_web2.png)
+<br>
+3. Click on the "Download R for Windows" link at the top of the page. 
+
+![Screenshot](img/r_web3.png)
+
+<br>
+4. Click on the "install R for the first time" link at the top of the page.
+
+![Screenshot](img/r_web4.png)
+
+<br>
+5. Click "Download R for Windows" and save the executable file somewhere on your computer. Run the .exe file and follow the installation instructions.
+
+![Screenshot](img/r_web5.png)
+
+<br>
+6. During the installation, please change the Destination Location to the following path:
+
+![Screenshot](img/r_web6.png)
+
+## Section 2: Download and Install R Studio
+1. Follow [this link](www.rstudio.com) and click on the "Download" button
+
+    ![Screenshot](img/rstudio_1.png)
+
+<br>
+2. Scroll down and click on "Download RStudio Desktop” and save the executable file. Run the .exe file and follow the installation instructions. *
+
+![Screenshot](img/rstudio_1.png)
+
+<br>
+* Note: If you are prompted to enter admin username and password upon launching the
+executable file, kindly contact Ong Zhong Fei from JPS (zhongfei@bnm.gov.my) 
+
+## Section 3: Running R Studio
+To launch R Studio, type “r studio” in your PC’s search box and click on “RStudio”
+<img src="../img/rstudio.jpg" width="250"/>
+
+
+**Last Updated: 8 September 2020**
+
+**R Version: 4.0.2**

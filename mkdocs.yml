@@ -1,6 +1,7 @@
-site_name: Anaconda and R Installation Guide
-repo_url: https://google.com/
+site_name: Anaconda  and R Installation Guide
+repo_url: https://github.com/ongzhongfei/installer_guide
+# edit_uri: 
 
 theme: 
-  name: readthedocs
+  name: bootstrap4
 # docs_dir: Main page
