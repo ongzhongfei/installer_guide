@@ -37,7 +37,7 @@ Below you may find the steps to download and install Anaconda in your PC.
 
 ## Section 2: Download and Install R Studio
 
-1. Follow [this link](www.rstudio.com) and click on the "Download" button
+1. Follow [this link](https://rstudio.com/) and click on the "Download" button
 
     ![Screenshot](img/rstudio_inst1.jpg)
 <br></br>  
