@@ -1,5 +1,5 @@
 
-# Welcome to Anaconda/R Installion guide
+# Welcome to Anaconda/R Installation guide
 
 [comment]:  (For full documentation visit [mkdocs.org](https://www.mkdocs.org).)
 

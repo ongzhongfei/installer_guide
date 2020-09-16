@@ -3,5 +3,5 @@ repo_url: https://github.com/ongzhongfei/installer_guide
 # edit_uri: 
 
 theme: 
-  name: bootstrap4
+  name: readthedocs
 # docs_dir: Main page
