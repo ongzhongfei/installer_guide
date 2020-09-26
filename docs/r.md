@@ -30,12 +30,12 @@ Below you may find the steps to download and install Anaconda in your PC.
     ![Screenshot](img/rweb5.jpg)
 <br></br>  
 
-6. During the installation, please change the Destination Location to the following path:
+<!-- 6. During the installation, please change the Destination Location to the following path:
 
     ![Screenshot](img/rweb6.jpg)
-<br></br>  
+<br></br>   -->
 
-## Section 2: Download and Install R Studio
+## Section 2: Download and Install R Studio (NOTE: Installation of R Studio requires admin access)
 
 1. Follow [this link](https://rstudio.com/) and click on the "Download" button
 
@@ -47,8 +47,6 @@ Below you may find the steps to download and install Anaconda in your PC.
     ![Screenshot](img/rstudio_inst2.jpg)
 <br></br>  
 
-\* Note: If you are prompted to enter admin username and password upon launching the
-executable file, kindly contact Ong Zhong Fei from JPS (zhongfei@bnm.gov.my) 
 
 ## Section 3: Running R Studio
 To launch R Studio, type “r studio” in your PC’s search box and click on “RStudio”
