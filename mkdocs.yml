@@ -4,4 +4,5 @@ repo_url: https://github.com/ongzhongfei/installer_guide
 
 theme: 
   name: readthedocs
+  favicon: img/favicon.ico
 # docs_dir: Main page

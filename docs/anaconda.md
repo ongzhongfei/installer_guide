@@ -64,13 +64,20 @@ Once you have downloaded the installer, you can launch the installer and follow 
 With Anaconda installed, two Python IDE – Jupyter Notebook and Spyder is automatically installed as well.
 We strongly recommend beginners to start writing Python codes using Jupyter Notebook.
 
+### 3.1: Launch Jupyter Notebook
 To launch Jupyter Notebook, type “jupyter” in your PC’s search box and click on “Jupyter Notebook”
     <img src="../img/jupyter.png" width="250"/>
     <!-- ![Screenshot](img/jupyter.png) -->
 
+### 3.2: Launch Spyder
 To launch Spyder, type “spyder” in your PC’s search box and click on “Spyder”
     <img src="../img/spyder.png"  width="250"/>
     <!-- ![Screenshot](img/spyder.png) -->
+
+
+## Section 4: Install R Studio and Visual Studio Code using Anaconda
+
+
 
 **Last Updated: 7 September 2020**
 
