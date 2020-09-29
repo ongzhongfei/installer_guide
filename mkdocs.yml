@@ -3,7 +3,7 @@ repo_url: https://github.com/ongzhongfei/installer_guide
 # edit_uri: 
 
 theme: 
-  name: material
+  name: readthedocs
   favicon: img/favicon.ico
   # palette:
   #   scheme: slate
