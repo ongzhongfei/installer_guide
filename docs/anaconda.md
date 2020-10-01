@@ -90,7 +90,9 @@ It is also possible to download R Studio and Visual Studio Code using Anaconda.
 
 1. Launch **Anaconda Navigator**
 
-2. Look for **R Studio** and **Visual Studio Code** anc click **Install**
+2. Look for **R Studio** and **Visual Studio Code** and click **Install**
+
+3. Afte the installation, click on **Launch** to launch the application
 
 
 **Last Updated: 7 September 2020**
