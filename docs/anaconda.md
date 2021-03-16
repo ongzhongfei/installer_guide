@@ -1,4 +1,4 @@
-# Anaconda Installation Guidetestting
+# Anaconda Installation Guide
 
 [comment]:  (Testing out my first mkdocs)
 Dear Learners,
@@ -23,7 +23,7 @@ FAQ – What is Anaconda and why are we using it?
 
 ## Section 2: Install Anaconda
 
-Once you have downloaded the installer, you can launch the installer and follow the instructions as prompted.
+Once you have downloaded the installer, you can launch the installer and follow the instructions as prompted. **Please tick the top box in Step 5.**
 
 1.	Navigate to the directory where the Anaconda Installer is downloaded. Double click on the installer as shown in the screenshot below.
 
@@ -45,7 +45,7 @@ Once you have downloaded the installer, you can launch the installer and follow 
     ![Screenshot](img/inst3.png)
 <br></br>  
 
-5. Click Install
+5. Click Install **(TICK THE TOP BOX)**
 
     ![Screenshot](img/inst4.png)
 <br></br>  
