@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>R Installion Guide - Anaconda  and R Installation Guide</title>
+  <title>Running an IDE - Anaconda  and R Installation Guide</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../css/theme.css" />
@@ -18,8 +18,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "R Installion Guide";
-    var mkdocs_page_input_path = "r.md";
+    var mkdocs_page_name = "Running an IDE";
+    var mkdocs_page_input_path = "Running IDE.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -55,20 +55,30 @@
                     <li class="toctree-l1"><a class="reference internal" href="../anaconda/">Anaconda Installation Guide</a>
                     </li>
                 </ul>
-                <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">R Installion Guide</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#section-1-download-and-install-r">Section 1: Download and Install R</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#section-2-download-and-install-r-studio-note-installation-of-r-studio-requires-admin-access">Section 2: Download and Install R Studio (NOTE: Installation of R Studio requires admin access)</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#section-3-running-r-studio">Section 3: Running R Studio</a>
-    </li>
-    </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../r/">R Installion Guide</a>
                     </li>
                 </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../Running%20IDE/">Running an IDE</a>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Running an IDE</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#section-1-running-python-integrated-development-environment-ide">Section 1: Running Python Integrated Development Environment (IDE)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#11-launch-jupyter-notebook">1.1: Launch Jupyter Notebook</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#111-running-jupyterlab">1.1.1: Running JupyterLab</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#112-running-jupyter-notebook-classic-version">1.1.2: Running Jupyter notebook (classic version)</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#12-launch-spyder">1.2: Launch Spyder</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#section-2-install-r-studio-and-visual-studio-code-using-anaconda">Section 2: Install R Studio and Visual Studio Code using Anaconda</a>
+    </li>
+    </ul>
                     </li>
                 </ul>
       </div>
@@ -92,10 +102,10 @@
     
       
     
-    <li>R Installion Guide</li>
+    <li>Running an IDE</li>
     <li class="wy-breadcrumbs-aside">
       
-        <a href="https://github.com/ongzhongfei/installer_guide/edit/master/docs/r.md"
+        <a href="https://github.com/ongzhongfei/installer_guide/edit/master/docs/Running IDE.md"
           class="icon icon-github"> Edit on GitHub</a>
       
     </li>
@@ -106,60 +116,40 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="r-installion-guide">R Installion Guide</h1>
-<p>Dear Learners,</p>
-<p>Below you may find the steps to download and install R and R Studio in your PC. </p>
-<h2 id="section-1-download-and-install-r">Section 1: Download and Install R</h2>
+                <h1 id="running-an-ide">Running an IDE</h1>
+<h2 id="section-1-running-python-integrated-development-environment-ide">Section 1: Running Python Integrated Development Environment (IDE)</h2>
+<p>With Anaconda installed, two Python IDE – Jupyter Notebook and Spyder is automatically installed as well.
+We strongly recommend beginners to start writing Python codes using Jupyter Notebook.</p>
+<h3 id="11-launch-jupyter-notebook">1.1: Launch Jupyter Notebook</h3>
+<p>To launch Jupyter Notebook, type “jupyter” in your PC’s search box and click on “Jupyter Notebook”<br />
+    <img src="../img/jupyter.png" width="250"/>
+    <!-- <img alt="Screenshot" src="img/jupyter.png" /> --></p>
+<p>Jupyter offers two versions of user interface, i.e. JupyterLab and Jupyter notebook.</p>
+<p>Personally, I highly recommend using JupyterLab. Steps to launch each version are as follow:</p>
+<h4 id="111-running-jupyterlab">1.1.1: Running JupyterLab</h4>
+<p>Open a browser and type in the link - <a href="http://localhost:8888/lab">http://localhost:8888/lab</a></p>
+<h4 id="112-running-jupyter-notebook-classic-version">1.1.2: Running Jupyter notebook (classic version)</h4>
+<p>Open a browser and type in the link - <a href="http://localhost:8888/tree">http://localhost:8888/tree</a></p>
+<h3 id="12-launch-spyder">1.2: Launch Spyder</h3>
+<p>To launch Spyder, type “spyder” in your PC’s search box and click on “Spyder”
+    <img src="../img/spyder.png"  width="250"/>
+    <!-- <img alt="Screenshot" src="img/spyder.png" /> --></p>
+<h2 id="section-2-install-r-studio-and-visual-studio-code-using-anaconda">Section 2: Install R Studio and Visual Studio Code using Anaconda</h2>
+<p>It is also possible to download R Studio and Visual Studio Code using Anaconda.</p>
 <ol>
 <li>
-<p>Follow <a href="https://www.r-project.org/">this link</a>. Click the "download R" link in the middle of the page under "Getting Started."</p>
-<p><img alt="Screenshot" src="../img/rweb1.jpg" />
-<br></br>  </p>
+<p>Launch <strong>Anaconda Navigator</strong></p>
 </li>
 <li>
-<p>Search for “0-Cloud-East Asia” and click the corresponding link</p>
-<p><img alt="Screenshot" src="../img/rweb2.jpg" />
-<br></br> </p>
+<p>Look for <strong>R Studio</strong> and <strong>Visual Studio Code</strong> and click <strong>Install</strong></p>
 </li>
 <li>
-<p>Click on the "Download R for Windows" link at the top of the page. </p>
-<p><img alt="Screenshot" src="../img/rweb3.jpg" />
-<br></br>  </p>
-</li>
-<li>
-<p>Click on the "install R for the first time" link at the top of the page.</p>
-<p><img alt="Screenshot" src="../img/rweb4.jpg" />
-<br></br>  </p>
-</li>
-<li>
-<p>Click "Download R for Windows" and save the executable file somewhere on your computer. Run the .exe file and follow the installation instructions.</p>
-<p><img alt="Screenshot" src="../img/rweb5.jpg" />
-<br></br>  </p>
+<p>Afte the installation, click on <strong>Launch</strong> to launch the application</p>
 </li>
 </ol>
-<!-- 6. During the installation, please change the Destination Location to the following path:
-
-    ![Screenshot](img/rweb6.jpg)
-<br></br>   -->
-
-<h2 id="section-2-download-and-install-r-studio-note-installation-of-r-studio-requires-admin-access">Section 2: Download and Install R Studio (NOTE: Installation of R Studio requires admin access)</h2>
-<ol>
-<li>
-<p>Follow <a href="https://rstudio.com/">this link</a> and click on the "Download" button</p>
-<p><img alt="Screenshot" src="../img/rstudio_inst1.jpg" />
-<br></br>  </p>
-</li>
-<li>
-<p>Scroll down and click on "Download RStudio Desktop” and save the executable file. Run the .exe file and follow the installation instructions. *</p>
-<p><img alt="Screenshot" src="../img/rstudio_inst2.jpg" />
-<br></br>  </p>
-</li>
-</ol>
-<h2 id="section-3-running-r-studio">Section 3: Running R Studio</h2>
-<p>To launch R Studio, type “r studio” in your PC’s search box and click on “RStudio”
-    <img src="../img/rstudio.jpg" width="250"/></p>
-<p><strong>Last Updated: 8 September 2020</strong></p>
-<p><strong>R Version: 4.0.2</strong></p>
+<p><strong>Last Updated: 7 September 2020</strong></p>
+<p><strong>Anaconda Version: Anaconda Individual Edition 2020.07</strong></p>
+<p><strong>Python Version: 3.8</strong></p>
               
             </div>
           </div>
@@ -167,10 +157,8 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../Running%20IDE/" class="btn btn-neutral float-right" title="Running an IDE">Next <span class="icon icon-circle-arrow-right"></span></a>
       
-      
-        <a href="../anaconda/" class="btn btn-neutral" title="Anaconda Installation Guide"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../r/" class="btn btn-neutral" title="R Installion Guide"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -198,10 +186,8 @@
           <a href="https://github.com/ongzhongfei/installer_guide/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href="../anaconda/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../r/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
-      
-        <span style="margin-left: 15px"><a href="../Running%20IDE/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
