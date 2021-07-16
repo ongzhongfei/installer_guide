@@ -1,6 +1,11 @@
 site_name: Anaconda  and R Installation Guide
 repo_url: https://github.com/ongzhongfei/installer_guide
 # edit_uri: 
+nav:
+    - 'index.md'
+    - 'anaconda.md'
+    - 'r.md'
+    - 'Running IDE.md'
 
 theme: 
   name: readthedocs
