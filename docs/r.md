@@ -1,6 +1,6 @@
 # R Installion Guide
 
-Dear Learners,
+Hello All,
 
 Below you may find the steps to download and install R and R Studio in your PC. 
 

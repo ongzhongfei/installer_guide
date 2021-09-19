@@ -4,6 +4,7 @@ repo_url: https://github.com/ongzhongfei/installer_guide
 nav:
     - 'index.md'
     - 'anaconda.md'
+    - 'python.md'
     - 'r.md'
     - 'Running IDE.md'
 

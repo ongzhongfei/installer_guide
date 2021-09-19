@@ -1,7 +1,7 @@
 # Anaconda Installation Guide
 
 [comment]: # (Testing out my first mkdocs)
-Dear Learners,
+Hello All,
 
 Below you may find the steps to download and install Anaconda in your PC. 
 
@@ -9,6 +9,7 @@ FAQ – What is Anaconda and why are we using it?
 
 - Anaconda is a free and open-source distribution of the Python programming language
 - Anaconda come with many packages along with Python, which is essential for data analysis and data science work
+- **If your are unable to install Anaconda, you may download Python and Jupyter. [Follow the steps here.](/installer_guide/python/)**
 
 ## Section 1: Download Anaconda Installer
 1. Follow [this link](https://www.anaconda.com/products/individual#windows). Scroll down to the section “Anaconda Installers” and click on “64-Bit   Graphical Installer” as shown in the screenshot below.
