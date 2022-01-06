@@ -6,9 +6,9 @@ Hello All,
 Please follow this page and download Python and Jupyter ONLY if you are unable to install [Anaconda](/installer_guide/anaconda/)
 
 ## Section 1: Download Python Installer
-1. Follow [this link](https://www.python.org/downloads/). Click on Download Python x.x.x (Download the latest version that you can see.)
-
-    ![Screenshot](img/python.png)  
+1. Click on [this link](https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe) to download the installer.
+<!-- 1. Follow [this link](https://www.python.org/downloads/). Click on Download Python x.x.x (Download the latest version that you can see.) 
+[Screenshot](img/python.png)   -->
     
 <br></br>  
 2. Click “Save” to start downloading the Python Installer  
@@ -30,7 +30,7 @@ Once you have downloaded the installer, you can launch the installer and follow 
     ![Screenshot](img/python_inst1.png)
 <br></br>  
 
-## Section 3: Install and Run Jupyter
+<!-- ## Section 3: Install and Run Jupyter
 
 Once Python is installed, you may run the following to install and run jupyter notebook.
 
@@ -46,4 +46,4 @@ Once Python is installed, you may run the following to install and run jupyter n
 
 3. Once it is completed. Type "juypter notebook" to run the notebook (or "jupyterlab" if you installed jupyterlab). A tab will automatically open in your browser. If not, type localhost:8888 into any browser.
 
-    ![Screenshot](img/inst_jup3.png)
+    ![Screenshot](img/inst_jup3.png) -->
