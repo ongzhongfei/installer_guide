@@ -6,7 +6,7 @@ Hello All,
 Please follow this page and download Python and Jupyter ONLY if you are unable to install [Anaconda](/installer_guide/anaconda/)
 
 ## Section 1: Download Python Installer
-1. Click on [this link](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe) to download the installer.
+1. Click on [this link](https://www.python.org/ftp/python/3.9.11/python-3.9.11-amd64.exe) to download the installer.
 <!-- 1. Follow [this link](https://www.python.org/downloads/). Click on Download Python x.x.x (Download the latest version that you can see.) 
 [Screenshot](img/python.png)   -->
     
