@@ -1,4 +1,4 @@
-# Python Installation Guide (Check version)
+# Python Installation Guide
 
 [comment]: # (Testing out my first mkdocs)
 Hello All,
